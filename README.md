@@ -25,9 +25,9 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=RafasHZ&show_icons=true&theme=tokyonight)
+![Rafael GitHub stats](https://github-readme-stats-rafashz.vercel.app/api?username=RafasHZ&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafasHZ&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-rafashz.vercel.app/api/top-langs/?username=RafasHZ&layout=compact&theme=tokyonight)
 
 ## 📫 Onde me encontrar
 
