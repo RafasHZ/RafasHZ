@@ -1,8 +1,12 @@
 # Olá! Eu sou o Rafael 👋  
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na Estácio de Sá
 💻 Apaixonado por desenvolvimento Web (Front-end & Back-end)  
-🚀 Buscando sempre aprender novas tecnologias e aplicar em projetos reais  
+🚀 Buscando sempre aprender novas tecnologias e aplicar em projetos reais 
+
+## 🎯 Objetivo
+Busco minha **primeira experiência na área de tecnologia**, onde eu possa aplicar meus conhecimentos em **Front-end & Back-end**.  
+Meu objetivo é crescer profissionalmente, contribuir com dedicação em projetos e aprender com cada desafio.  
 
 ## 🚀 Tecnologias que uso e estudo
 
@@ -25,9 +29,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Rafael GitHub stats](https://github-readme-stats-rafashz.vercel.app/api?username=RafasHZ&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-rafashz.vercel.app/api/top-langs/?username=RafasHZ&layout=compact&theme=tokyonight)
+Por enquanto sem.
 
 ## 📫 Onde me encontrar
 
